@@ -1,8 +1,7 @@
 
 # Hi, I'm Adnan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Technical+Services+Engineer;Automation+%26+PLC+Specialist;Creative+Thinker;Always+Learning+New+Things)](https://git.io/typing-svg)
-https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=00BFFF&background=000000&center=true&vCenter=true&width=600&lines=Hi+I'm+Adnan;Technical+Services+Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=00BFFF&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Technical+Services+Engineer;Automation+%26+PLC+Specialist;Creative+Thinker;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 - 🌍 Based in Islamabad
