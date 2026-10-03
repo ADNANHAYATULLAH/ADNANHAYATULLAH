@@ -8,7 +8,7 @@
 - ⚙️ Technical Services Engineer
 - 🔧 Specializing in PLCs, Drives & Automation
 - 📫 Reach me at: engradnanh1@gmail.com
-![GitHub followers](https://img.shields.io/github/followers/Adnan123?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ADNANHAYATULLAH?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)
 
 
